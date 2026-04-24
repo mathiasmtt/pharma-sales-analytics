@@ -14,7 +14,7 @@
 
 ![Dashboard Pharma Sales](docs/screenshots/dashboard.png)
 
-> *Para regenerar la captura: correr el dashboard localmente (ver [Cómo correrlo](#-cómo-correrlo-localmente)), tomar una captura y guardarla en `docs/screenshots/dashboard.png`.*
+> *Para regenerar la captura: correr el dashboard localmente (ver [Cómo correrlo](#-cómo-correrlo-localmente)) y guardar la imagen en `docs/screenshots/dashboard.png` (`mkdir -p docs/screenshots`).*
 
 ## 🎨 Paleta visual — alineada a Megalabs
 
