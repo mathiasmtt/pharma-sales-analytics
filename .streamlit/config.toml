@@ -1,0 +1,15 @@
+[theme]
+# Paleta corporativa Megalabs (https://www.megalabs.com.uy/)
+# Primario: verde Megalabs #149971 (extraído del CSS del sitio oficial)
+base = "light"
+primaryColor = "#149971"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f5f5"
+textColor = "#32373c"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
