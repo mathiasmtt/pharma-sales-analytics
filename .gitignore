@@ -31,9 +31,10 @@ dist/
 .coverage
 htmlcov/
 
-# Datos crudos (no versionar CSV pesados ni zips)
-data/raw/*
-!data/raw/.gitkeep
+# Datos
+# Los CSV del dataset se versionan (2.7 MB total) para que Streamlit Cloud
+# pueda servir el dashboard sin configuración adicional.
+# Si el dataset creciera, migrar a GitHub Releases o descarga runtime.
 data/*.zip
 
 # IDE local
