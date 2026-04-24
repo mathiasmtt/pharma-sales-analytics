@@ -2,6 +2,7 @@
 
 > Demo end-to-end de analítica comercial sobre ventas farmacéuticas (POS, 2014–2019, ~600k transacciones, 8 categorías ATC). Proyecto de portafolio para el puesto de **Analista de Datos – Equipo Comercial** en la industria farmacéutica.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pharma-sales-analytics-lbjwb2xsmvnkfqgathflf9.streamlit.app/)
 [![CI](https://github.com/mathiasmtt/pharma-sales-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/mathiasmtt/pharma-sales-analytics/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.36%2B-red.svg)](https://streamlit.io/)
@@ -9,6 +10,12 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
+
+## 🚀 Demo en vivo
+
+👉 **[pharma-sales-analytics-lbjwb2xsmvnkfqgathflf9.streamlit.app](https://pharma-sales-analytics-lbjwb2xsmvnkfqgathflf9.streamlit.app/)** 👈
+
+Dashboard interactivo deployado en Streamlit Cloud. Si la app está dormida (tras inactividad prolongada), puede tardar ~30 segundos en despertar.
 
 ## 📸 Vista del dashboard
 

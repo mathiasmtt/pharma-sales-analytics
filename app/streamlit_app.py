@@ -398,6 +398,8 @@ with st.sidebar:
     )
 
 st.caption(
-    "Código: [github.com](https://github.com) · Dataset: Milan Zdravkovic · "
+    "Código: [github.com/mathiasmtt/pharma-sales-analytics]"
+    "(https://github.com/mathiasmtt/pharma-sales-analytics) · "
+    "Dataset: Milan Zdravkovic · "
     "Construido con pandas + plotly + streamlit."
 )
