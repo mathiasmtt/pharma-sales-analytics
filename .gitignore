@@ -36,6 +36,7 @@ htmlcov/
 # pueda servir el dashboard sin configuración adicional.
 # Si el dataset creciera, migrar a GitHub Releases o descarga runtime.
 data/*.zip
+data/context/
 
 # IDE local
 .vscode/
