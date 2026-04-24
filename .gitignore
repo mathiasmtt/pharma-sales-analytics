@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Entorno Virtual
+.venv/
+
+# UV (mantener uv.lock en git para reproducibilidad)
+# uv.lock
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Datos crudos (no versionar CSV pesados)
+data/raw/*
+!data/raw/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
