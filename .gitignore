@@ -31,9 +31,13 @@ dist/
 .coverage
 htmlcov/
 
-# Datos crudos (no versionar CSV pesados)
+# Datos crudos (no versionar CSV pesados ni zips)
 data/raw/*
 !data/raw/.gitkeep
+data/*.zip
+
+# IDE local
+.vscode/
 
 # Jupyter
 .ipynb_checkpoints/
